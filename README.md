@@ -14,6 +14,7 @@ To run the Python code, follow this order :
   1>creation of new user using SignUp.
   2>accessing the features using LogIn.
   3>user can enter the total time they would like to work, by specifying the time in Hours and Minutes.
-  4>if they want to terminate the program
+  4>if they want to terminate the program, they can click the terminate button to completely stop the process.
+ 
  
       
