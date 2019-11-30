@@ -1,0 +1,73 @@
+*{
+    margin : 0 ;
+    padding : 0 ;
+}
+.bg {
+  /* The image used */
+  background-image: url("https://mdbootstrap.com/img/Photos/Horizontal/Nature/full page/img(20).jpg");
+
+  /* Full height */
+  height: 100%;
+
+  /* Center and scale the image nicely */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.right-menu li
+{
+    display : inline-block;
+    margin-top: 30 px !important ;
+}
+
+.right-menu li .fa
+{
+    font-size: 18px;
+    margin-right: 10px;
+    cursor: pointer;
+}
+
+.selectionBar
+{
+    background: #f5f6fc;
+    margin-bottom: 80px;
+}
+.chair-img
+{
+    margin : 80px 115px;
+    width : 60%;
+}
+
+.chair-img img
+{
+    width: 100%;
+    margin-bottom : -80px
+}
+
+.chair
+{
+    position : relative;
+}
+
+.chair-title
+{
+    position : absolute;
+    left : 45%;
+    top : 20%;
+}
+.chair-title h1
+{
+    font-size: 55px ;
+    background : rgba(0,0,0,0.75);
+    color : #fff;
+    line-heighht: 70px;
+    padding: 0 10px 0 10px;
+}
+.chair-title h2
+{
+    font-size: 30px ;
+    background : rgba(0,0,0,0.75);
+    color : #fff;
+    line-heighht: 70px;
+    padding: 0 10px 0 10px;
+}
