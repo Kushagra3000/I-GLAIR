@@ -9,7 +9,7 @@ To run the Python code, follow this order :
         ser = serial.Serial('your Arduino port number', 'your baud rate')
   4. Using local host, you can run the code in the following manner:
      1. open the master folder in command prompt, and run the following command : 
-        py manage.py runserver
+        . py manage.py runserver
         This will generate a development server at a url ( say , 'http://127.0.0.1:8000/' ) :
   5. Use this url to see the final deployment of the code in the web server.
 ## Features
