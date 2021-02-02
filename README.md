@@ -1,5 +1,7 @@
-# PISMAJOR
-To run the Python code, follow this order :
+# I-GLAIR
+
+## Setup
+To run the Python code, follow this order : \n
   1> upload the code in Arduino, and then check for the port and baud rate.
   2> In a code editor, open the  following file saved in the djangoCode folder in the master folder :
     2> polls/views.py
